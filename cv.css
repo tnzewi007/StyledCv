@@ -1,0 +1,43 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background: rgba(224, 218, 218, 0.836)
+}
+.wrapper {
+    width: 80%;
+    display: flex;
+    margin: 0px auto
+}
+.left {
+    width: 35%;
+    height: 180vh;
+    background: rgba(0, 0, 0, 0.856);
+    padding: 70px 0px;
+}
+.right {
+    width: 65%;
+    height: 180vh;
+    background: white;
+    padding: 70px 50px
+}
+.edu {
+    display: flex;
+    justify-content: space-between;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+.person {
+    width: 80%;
+    margin: 40px auto;
+}
+
+
+
+
